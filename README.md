@@ -42,7 +42,7 @@ After receiving query results from the autograder, also upload:
  
 ## How to Run
  
-Run each cell in the notebook in order from top to bottom. Do not skip cells. The notebook is organized into the following sections:
+Run each cell in the notebook in order from top to bottom. Do not skip cells.
  
 ---
  
